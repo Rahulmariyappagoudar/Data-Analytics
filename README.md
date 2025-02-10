@@ -3,13 +3,6 @@
 ## Overview
 This repository contains Data Analysis course. This cover various topics, including Python basics, NumPy, Pandas, exploratory data analysis (EDA), and working with datasets.
 
-## Repository Structure
-- `Python Basics.ipynb` - Introduction to Python programming
-- `Numpy.ipynb` - NumPy fundamentals for data manipulation
-- `Pandas.ipynb` - Working with Pandas for data analysis
-- `EDA.ipynb` - Exploratory Data Analysis techniques
-- `Cars_data.csv` - Dataset used for analysis
-
 ## How to Use
 1. Clone the repository:
    ```bash
