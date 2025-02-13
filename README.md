@@ -17,7 +17,7 @@ This repository contains Data Analysis course. This cover various topics, includ
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebook
 - SQL (if applicable)
-- Excel/Power BI (if applicable)
+- Excel/Tableau
 
 ## License
 MIT License - see [LICENSE](LICENSE) for details.
